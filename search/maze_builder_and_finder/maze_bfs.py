@@ -3,7 +3,6 @@ import numpy as np
 import time
 from collections import deque
 
-# Constants
 GRID_SIZE = 10
 CELL_SIZE = 70
 WIDTH, HEIGHT = GRID_SIZE * CELL_SIZE, GRID_SIZE * CELL_SIZE
